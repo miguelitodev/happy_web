@@ -1,7 +1,7 @@
 <div align="center" id="top">
     <img src="./.github/app.png" alt="Happy" width="300px"/>
     <br>
-    <a href="https://miguelrisquelme-happy_web.netlify.app">Demo  ➤</a>
+    <a href="https://miguelrisquelme-happy.netlify.app/">Demo  ➤</a>
 </div>
 
 <h1 align="center">Happy | Front End</h1>
