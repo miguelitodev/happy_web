@@ -1,7 +1,7 @@
 <div align="center" id="top">
     <img src="./.github/app.png" alt="Happy" width="300px"/>
     <br>
-    <a href="https://miguelrisquelme-happy_web.netlify.app">Demo  ➤</a>
+    <a href="https://miguelrisquelme-happy.netlify.app/">Demo  ➤</a>
 </div>
 
 <h1 align="center">Happy | Front End</h1>
@@ -27,6 +27,11 @@
 ## :dart: About
 
 💜 A platform to facilitate the finding of orphanages by people who want to visit them. Made in the third Next Level Week promoted by Rocketseat.
+
+## :construction: In Development
+
+    - Responsiveness
+    - Name of city
 
 ## :rocket: Technologies
 
