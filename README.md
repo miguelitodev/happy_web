@@ -26,7 +26,7 @@
 
 ## :dart: About
 
-Dropbox is a service for storing and sharing files. It is based on the concept of "cloud computing". It belongs to Dropbox Inc., based in San Francisco, California, USA. The company that developed the program provides computer centers that store its customers' files.
+💜 A platform to facilitate the finding of orphanages by people who want to visit them. Made in the third Next Level Week promoted by Rocketseat.
 
 ## :rocket: Technologies
 
