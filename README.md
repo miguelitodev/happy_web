@@ -32,6 +32,7 @@
 
     - Responsiveness
     - Name of city
+    - Other pages
 
 ## :rocket: Technologies
 
